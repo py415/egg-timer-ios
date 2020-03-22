@@ -14,7 +14,8 @@ Egg Timer is a beautiful egg timer app to boil your eggs to perfection depending
 ## Product Spec
 ### User Stories
 
-- [ ] User shall be able to set a timer for how they would like their egg to be cooked.
+- [X] User shall be able to set a timer for how they would like their egg to be cooked.
+- [X] User shall be able to see a visual progress bar of how long it'll take to cook the egg.
 
 ## App Walkthrough
 
