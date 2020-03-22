@@ -21,7 +21,7 @@ Egg Timer is a beautiful egg timer app to boil your eggs to perfection depending
 
 Here's a GIF of how the app works:
 
-<img src="ADD_GIF_LINK" width=250><br>
+<img src="https://i.imgur.com/4Ldbxmo.gif" width=250><br>
 
 ## Credits
 
