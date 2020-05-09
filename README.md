@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-2. [Product Spec](#Product-Spec)
+2. [Product Specs](#Product-Specs)
 3. [App Walkthrough](#App-Walkthrough)
 4. [Credits](#Credits)
 
@@ -11,7 +11,7 @@
 
 Egg Timer is a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs.
 
-## Product Spec
+## Product Specs
 ### User Stories
 
 - [X] User shall be able to set a timer for how they would like their egg to be cooked.
@@ -21,8 +21,8 @@ Egg Timer is a beautiful egg timer app to boil your eggs to perfection depending
 
 Here's a GIF of how the app works:
 
-<img src="https://i.imgur.com/lUJRNwo.gif" width=250><br>
+<img src="https://user-images.githubusercontent.com/35745973/81484450-6294ec80-91fa-11ea-8a3d-1d2d08c14921.gif" width=250><br>
 
 ## Credits
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
